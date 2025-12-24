@@ -12,6 +12,9 @@ WPF, Helix Toolkit ve AssimpNet kullanılarak geliştirilmiş kapsamlı ve hafif
 
 ---
 
+<img width="1190" height="997" alt="image" src="https://github.com/user-attachments/assets/74f0da49-1756-43ab-b1d5-72c2810cc049" />
+
+
 ## 🌟 Features / Özellikler
 
 ### 🇬🇧 English
