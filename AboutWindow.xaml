@@ -1,0 +1,24 @@
+<Window x:Class="ThreeDModelViewerAndExporter.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hakkında" Height="350" Width="450" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        Background="#1A1A1B" Foreground="#E0E0E0">
+    <Grid Margin="20">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="3D Model Viewer and Exporter" FontSize="20" FontWeight="Bold" Foreground="White" TextAlignment="Center" Margin="0,0,0,10"/>
+            <TextBlock Text="Sürüm v1.0.0" FontSize="14" Foreground="#AAAAAA" TextAlignment="Center" Margin="0,0,0,20"/>
+            
+            <TextBlock Text="Geliştirici: Soner Çakır" FontSize="14" TextAlignment="Center" Margin="0,5"/>
+            <TextBlock Text="© 2026 Soner Çakır" FontSize="12" Foreground="#888888" TextAlignment="Center" Margin="0,5"/>
+            <TextBlock Text="MIT License" FontSize="12" Foreground="#888888" TextAlignment="Center" Margin="0,20,0,20"/>
+
+            <TextBlock TextAlignment="Center">
+                <Hyperlink NavigateUri="https://github.com/sonercakir7" RequestNavigate="Hyperlink_RequestNavigate" Foreground="#4FA1DB">
+                    github.com/sonercakir7
+                </Hyperlink>
+            </TextBlock>
+            
+            <Button Content="Tamam" Width="80" Height="25" Margin="0,20,0,0" IsDefault="True" Click="Button_Click" Background="#444" Foreground="White" BorderThickness="0"/>
+        </StackPanel>
+    </Grid>
+</Window>
