@@ -5,10 +5,10 @@
 ![Language](https://img.shields.io/badge/language-C%23%20%7C%20WPF-purple)
 
 **[English]**  
-A comprehensive and lightweight 3D model viewer and exporter application built with WPF, Helix Toolkit, and AssimpNet. This tool allows users to view, analyze, and convert 3D models between various popular formats with ease.
+A comprehensive and lightweight 3D model viewer and exporter application built with WPF, Helix Toolkit, and AssimpNet. This tool allows users to view, analyze, and convert 3D models between various popular formats with ease. This project is a hobby project, written and developed entirely from scratch.
 
 **[Türkçe]**  
-WPF, Helix Toolkit ve AssimpNet kullanılarak geliştirilmiş kapsamlı ve hafif bir 3D model görüntüleyici ve dışa aktarıcı uygulaması. Bu araç, kullanıcıların 3D modelleri görüntülemesini, analiz etmesini ve çeşitli popüler formatlar arasında kolayca dönüştürmesini sağlar.
+WPF, Helix Toolkit ve AssimpNet kullanılarak geliştirilmiş kapsamlı ve hafif bir 3D model görüntüleyici ve dışa aktarıcı uygulaması. Bu araç, kullanıcıların 3D modelleri görüntülemesini, analiz etmesini ve çeşitli popüler formatlar arasında kolayca dönüştürmesini sağlar. Bu proje hobi amaçlı geliştirilmiş olup tamamen sıfırdan yazılıp hazırlanmıştır.
 
 ---
 
