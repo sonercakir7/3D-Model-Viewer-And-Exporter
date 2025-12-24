@@ -1,6 +1,6 @@
 # 3D Model Viewer and Exporter
 
-![License](https://img.shields.io/github/license/sonercakir7/3D-Model-Viewer-And-Exporter)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Language](https://img.shields.io/badge/language-C%23%20%7C%20WPF-purple)
 
