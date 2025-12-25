@@ -1,6 +1,5 @@
 # 3D Model Viewer and Exporter
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Language](https://img.shields.io/badge/language-C%23%20%7C%20WPF-purple)
 
@@ -95,4 +94,4 @@ WPF, Helix Toolkit ve AssimpNet kullanılarak geliştirilmiş kapsamlı ve hafif
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Creative Commons Reference: This work is inspired by and follows the spirit of the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. To view a copy of the base license, visit: http://creativecommons.org/licenses/by-nc/4.0/
